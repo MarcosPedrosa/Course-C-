@@ -7,7 +7,7 @@ namespace Course
     {
         static void Main(string[] args)
         {
-            Console.Write("Digite quantas linhas ");
+            Console.Write("Digite quantas linhas : ");
             int l = int.Parse(Console.ReadLine());
             Console.Write("Digite quantas Colunas ");
             int c = int.Parse(Console.ReadLine());
